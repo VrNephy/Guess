@@ -6,15 +6,15 @@ Tout d’abord, j’ai mis en place ce qui était nécessaire à la réalisation
 
 Une fois le projet prêt, j’ai tout d’abord testé la commande suivante : ./bin/phpunit pour voir si tout était opérationnel. Cette commande m’a affiché des erreurs ce qui est normal. Dans le fichier « CardTest » j’ai fait les « TODO » comme demandé.
 
-![img](file:///C:/Users/lucas/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](Guess/doc.capture1.jpg)
 
-![img](file:///C:/Users/lucas/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![](Guess/doc.capture2.jpg)
 
 Une fois les tests complétés comme ci-dessus, je me suis attaqué à CardGame32.
 
 En commençant par la fonction compare
 
-![img](file:///C:/Users/lucas/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![](Guess/doc.capture3.jpg)
 
 Qui permet de comparer ne nom et la suite de deux cartes différentes. J’ai également ordonné les suites/couleurs et les valeurs/nom des cartes avec deux « const » (const order_color et const order_name).
 
@@ -22,9 +22,10 @@ Ensuite, la fonction factoryCardGame32, qui permet d’instancier un paquet de 3
 
 La fonction Shuffle permet de mélanger le jeu de 32 cartes précédemment créer. Et la fonction reOrder qui remet dans l’ordre le paquet.
 
-![img](file:///C:/Users/lucas/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)
+![](Guess/doc.capture4.jpg)
 
 Pour continuer, La fonction getCard permet de piocher une carte dans le jeu.
+![](Guess/doc.capture5.jpg)
 
  
 
