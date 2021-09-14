@@ -6,7 +6,7 @@ Tout d’abord, j’ai mis en place ce qui était nécessaire à la réalisation
 
 Une fois le projet prêt, j’ai tout d’abord testé la commande suivante : ./bin/phpunit pour voir si tout était opérationnel. Cette commande m’a affiché des erreurs ce qui est normal. Dans le fichier « CardTest » j’ai fait les « TODO » comme demandé.
 
-![](Guess/doc.capture1.jpg)
+<img src = "Guess/doc.capture1.jpg">
 
 ![](Guess/doc.capture2.jpg)
 
