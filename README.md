@@ -1,6 +1,6 @@
 (j'ai du mal a afficher les images, j'ai donc mis le PDF dans le projet github.
 
-Pisano Lucas BTS SIO 22        
+Lucas BTS SIO 22        
 
 Rapport Projet Guess
 
